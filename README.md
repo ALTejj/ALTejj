@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @ALTejj! :D
 - 👀 I’m interested in C++ / Swift programming.
 - 🌱 I’m currently learning Swift
-- 💞️ I’d really like to collaborate on web engines like html, css engines and all of that stuff...
-- 📫 You can reach me on Discord
+- 💞️ I’d really like to collaborate on core C++ technologies such as: Game-Engines.
+- 📫 You can reach me on Discord at: ALT#0667
 
 <!---
-ALTejj/ALTejj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+
 --->
