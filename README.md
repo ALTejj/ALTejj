@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ALTejj a 16 almost 17 year old programmer :D
 - 👀 I’m interested in C++ / Ruby programming.
-- 🌱 I’m currently learning Swift but i'm planning to use Ruby more often.
-- 💞️ I’d really like to collaborate on C++ / Swift projects.
+- 🌱 I’m currently learning Ruby but i'm planning to use Ruby more often.
+- 💞️ I’d really like to collaborate on C++ / Ruby projects.
 - 📫 You can reach me on Discord at: ALT#3583.
 
 - 💻 Speaking about programming I'm learning new concepts everyday, as it is important to have a good knowledge to solve problems.
